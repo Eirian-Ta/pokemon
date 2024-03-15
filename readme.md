@@ -3,7 +3,7 @@
 The app has 2 screens:
 
 1. Screen 1: displays a list of pokemon in a `ListView`.
-   Clicking on a row will navigate the user to the `Details Screen`.
+   Clicking on a row will navigate the user to the **Details Screen**.
 
 2. Screen 2: displays details about a specific pokemon.
 
@@ -16,4 +16,4 @@ The app has 2 screens:
 
 - The list of pokemon and all functions relating to retrieving a pokemon are performed
   using the Singleton pattern.
-- `View bindings` is used through out the app, there's no `data bindings` or `findViewById()`
+- **View bindings** is used through out the app, there's no **data bindings** or `findViewById()`
