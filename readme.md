@@ -10,7 +10,7 @@ The app has 2 screens:
 - The screen looks up a pokemon using the pokemon’s pokedex number; and then using the
   retrieved information, displays the pokemon’s image, name, and pokedex number. The image of the pokemon is programmatically retrieved based on its corresponding file name in `drawables/` folder.
 - There is a button labeled FIGHT COMPUTER: When the button is pressed, the screen initiates a fight between the selected Pokemon and the computer by generating two random numbers between 1 and 5.
-- The screen also include an Options Menu allowing users to set a pokemon as their favourite
+- The screen also includes an Options Menu allowing users to set a pokemon as their favourite.
 
 # Implementation
 
