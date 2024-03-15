@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/miSetFav" android:title="@string/set_fav_btn_label"></item>
+    <item android:id="@+id/miReset" android:title="@string/reset_btn_label"></item>
+</menu>
